@@ -41,6 +41,7 @@ doc/reference/target/
 #Packaging Output
 packages/
 nuget-packages/
+/packages
 
 #Build log and other log files
 buildlog.txt
