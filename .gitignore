@@ -11,6 +11,7 @@
 *.suo
 *.bak
 *.log
+*.gpState
 *.[Cc]ache
 [Oo]bj
 [Bb]in
